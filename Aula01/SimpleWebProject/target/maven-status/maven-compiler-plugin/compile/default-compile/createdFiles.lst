@@ -1,0 +1,4 @@
+com/example/web/HelloServlet.class
+com/myproject/web/CadastroClienteServlet.class
+com/myproject/web/ListaClienteServlet.class
+com/myproject/web/CadastroProdutoServlet.class
